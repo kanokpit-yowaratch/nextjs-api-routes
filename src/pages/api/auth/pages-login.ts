@@ -21,9 +21,9 @@ export default async function handler(
 			path: '/'
 		});
 
-		const user = { username };
 		res.setHeader('Set-Cookie', ckConfig);
 
+		const user = { username };
 		res.status(200).json({
 			message: 'Test login routing successful.',
 			user

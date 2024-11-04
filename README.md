@@ -29,4 +29,4 @@ There are at least four differences between the 2 methods:
 3. Request
 4. Response
 
-And more: Integration with cookies
+And more: Integration with cookies [readmore](https://suaipisuai.com/post/nextjs-api-routes)
